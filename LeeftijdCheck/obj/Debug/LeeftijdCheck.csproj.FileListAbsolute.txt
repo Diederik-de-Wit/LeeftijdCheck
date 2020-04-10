@@ -1,0 +1,14 @@
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck.csprojAssemblyReference.cache
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\MainWindow.g.cs
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\App.g.cs
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck_MarkupCompile.cache
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck_MarkupCompile.lref
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\bin\Debug\LeeftijdCheck.exe.config
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\bin\Debug\LeeftijdCheck.exe
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\bin\Debug\LeeftijdCheck.pdb
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\MainWindow.baml
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck.g.resources
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck.Properties.Resources.resources
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck.csproj.GenerateResource.cache
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck.exe
+C:\Users\diede\source\repos\LeeftijdCheck\LeeftijdCheck\obj\Debug\LeeftijdCheck.pdb
